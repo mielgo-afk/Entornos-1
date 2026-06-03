@@ -63,15 +63,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AOStrength: 0.5
+    - _AOStrength: 1.35
     - _MetallicStrength: 0
-    - _NormalStrengh: 2.47
+    - _NormalStrengh: 1.59
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rotation: 0
-    - _SmoothnessStrength: 0
+    - _SmoothnessStrength: 2.98
     m_Colors:
-    - _BaseColor: {r: 0.9150943, g: 0.8850895, b: 0.8503471, a: 1}
+    - _BaseColor: {r: 1, g: 0.9649175, b: 0.9198113, a: 1}
     - _Offset: {r: 5, g: 5, b: 0, a: 0}
     - _Tiling: {r: 20, g: 20, b: 0, a: 0}
   m_BuildTextureStacks: []
